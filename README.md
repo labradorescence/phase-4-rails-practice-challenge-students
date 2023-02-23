@@ -39,6 +39,7 @@ needed to create the relationships defined above):
   - name (must be present)
   - major
   - age (must be >= 18)
+  - instructor_id
 
 Make sure to define validations for your models so that no bad data can be saved
 to the database.
